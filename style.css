@@ -409,7 +409,7 @@ section {
     }
 
     .recipe-img {
-        width: 85vw;
+            width: 60vw;
     }
 
     .recipe-desc{
@@ -439,8 +439,7 @@ section {
 
 @media only screen and (max-width:560px){
     .recipe-img {
-        width: 100vw ;
-        padding-right: 3rem;
+        width: 80vw;
     }
 
     .hero-inner {
