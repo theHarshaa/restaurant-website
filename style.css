@@ -103,6 +103,10 @@ header{
     color: #fff;
 }
 
+.nav-icons span:hover {
+   color: var(--main-color);
+}
+
 .sticky .nav-icons span{
     color: #444;
 }
