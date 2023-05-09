@@ -94,6 +94,7 @@ header{
     margin-left: 1.2rem;
     display: flex;
     justify-content: flex-end;
+    cursor: pointer;
 }
 
 
@@ -102,7 +103,7 @@ header{
     display: inline-block;
     margin-left: 1rem;
     color: #fff;
-    cursor: pointer;
+    
 }
 
 .nav-icons span:hover {
