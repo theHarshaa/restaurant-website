@@ -113,6 +113,10 @@ header{
     color: #444;
 }
 
+.sticky .nav-icons span:hover{
+    color: var(--sec-color);
+}
+
 .sticky .nav-menu-2 label{
     color: var(--sec-color);
 }
