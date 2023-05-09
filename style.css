@@ -465,10 +465,12 @@ section {
     .contact-banner{
         background-size:contain;
         background-repeat: no-repeat;
-        height: 560px;
+        height: 500px;
     }
-
     
+    .info {
+    padding: 1rem;
+}
 
 }
 
