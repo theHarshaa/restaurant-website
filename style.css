@@ -409,7 +409,7 @@ section {
     }
 
     .recipe-img {
-            width: 60vw;
+            width: 100%;
     }
 
     .recipe-desc{
@@ -433,6 +433,8 @@ section {
 
     .recipe-img {
         width: 80vw;
+        padding-right: 10px;
+        height: 80vh;
     }
 
 }
@@ -440,10 +442,27 @@ section {
 @media only screen and (max-width:560px){
     .recipe-img {
         width: 80vw;
+        height: 80vh;
     }
 
     .hero-inner {
         padding-top: 10rem;
     }
 
+    .contact-banner{
+        background-size:contain;
+        background-repeat: no-repeat;
+        height: 560px;
+    }
+
+    .info {
+         padding: 1rem;
+    }
+
+}
+
+@media only screen and (max-width:425px){
+    .recipe-img{
+        width: 100%;
+    }
 }
