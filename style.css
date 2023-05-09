@@ -61,10 +61,12 @@ header{
 .nav-menu a:hover{
     color: var(--main-color);
     border-bottom: 2px solid var(--main-color);
+    font-weight: 700;
 }
 
 .nav-menu a.active{
     color: var(--main-color);
+    font-weight: 700;
 }
 
 .btn{
