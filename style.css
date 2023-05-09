@@ -26,6 +26,7 @@ header{
 .nav-banner{
     color: #fff;
     font-size: 2.5rem;
+    cursor: pointer;
 }
 
 .nav-inner,
@@ -101,6 +102,7 @@ header{
     display: inline-block;
     margin-left: 1rem;
     color: #fff;
+    cursor: pointer;
 }
 
 .nav-icons span:hover {
